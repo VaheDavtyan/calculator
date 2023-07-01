@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    
+}
+
+.head {
+    display: flex;
+    justify-content: center;
+ 
+}
+.head2{
+    background-color: black;
+    padding: 10px 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.c {
+    color: red;
+    background: #333;
+    text-align: center;
+    width: 40px;
+    font-size: 30px;
+
+}
+
+.mth {
+    background: #333;
+    text-align: center;
+    width: 40px;
+    color: #15e308;
+    font-size: 30px;
+
+}
+
+.tiv1 {
+    background: #333;
+    text-align: center;
+    width: 40px;
+    font-size: 30px;
+    color: #fff;
+
+}
+.bace-space{
+    background: #333;
+    text-align: center;
+    width: 85px;
+    font-size: 30px;
+    color: red;
+  
+}
+.havasar {
+    background: #15e308;
+    text-align: center;
+    width: 40px;
+    color: #fff;
+    font-size: 30px;
+
+}
+.tiv3{
+    color:#15e308;
+    background: #333;
+    text-align: center;
+    width: 40px;
+    font-size: 30px;
+    
+}
+.tox{
+    width: 82%;
+    margin-bottom: 10px;
+    height: 25px;
+}
+.top,
+.top1,
+.top2,
+.top3,
+.top4{
+    padding: 5px ;
+}
+.tiv0{
+    background: #333;
+    text-align: center;
+    width: 85px;
+    font-size: 30px;
+    color: #fff;
+    
+}
